@@ -19,3 +19,6 @@ You can see the demo of the project <a href="http://demos.justlaravel.com/introd
 ## Reference Post
 <a href="http://justlaravel.com/introduction-vue-js-in-laravel">http://justlaravel.com/introduction-vue-js-in-laravel
 </a>
+
+## App Demo
+https://www.youtube.com/watch?v=nWwRuJeK36A
